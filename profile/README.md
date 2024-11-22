@@ -13,7 +13,7 @@ GBWhatsApp is a modified version of the official WhatsApp application. It offers
 ❗❗**GB WhatsApp 18.20 is now available!**❗❗  
 The latest version includes updates to the anti-ban protection system and a guide for fixing account ban issues. Users can now update from older versions to experience the new features.
 
-### 📥 [Download GB WhatsApp Pro v18.20 Here](https://gbbeta.com/)  
+### 📥 [Download GB WhatsApp Pro v18.20 Here](https://gbwhatapp.in//)  
 *(Click the link to download the latest version)*
 
 ---
