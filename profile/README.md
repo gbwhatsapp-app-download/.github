@@ -1,4 +1,5 @@
-# GBWhatsApp APK
+# GBWhatsapp APK Download (Anti-Ban) Updated Version November
+
 
 **Version:** 18.20  
 **Size:** 77MB  
